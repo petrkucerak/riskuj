@@ -1,0 +1,127 @@
+{
+   "issues": [
+      "Druhy modlitby",
+      "Liturgický cyklus",
+      "Otázky na míru"
+   ],
+   "values": [
+      "1 000",
+      "2 000",
+      "3 000",
+      "4 000",
+      "5 000"
+   ],
+   "questions": [
+      [
+         {
+            "question": "V jaké části Bible jsou žalmy?\na) jen ve Starém Zákoně\nb) jen v Novém Zákoně\nc) jak ve Starém Zákoně, tak i v Novém Zákoně",
+            "answer": "Starém Zákoně (Kniha žalmů, Debořina píseň, Abakukův žalm, ...), tak i v Novém Zákoně (Kantikum Pannz Marie, Zachariášovo kantikum, ...)",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "K jakému druhu modlitby se využívá metody sedmi kroků?",
+            "answer": "Rozjímání nad písmem",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Co to znamená adorace?",
+            "answer": "Vzývání Boha, uctívání, přitisknutí, políbení, ... největší projev úcty",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "V jakém jazyce jsou rorátní písně?\na) latině\nb) italštině\nc) staročeštině",
+            "answer": "staročeštině",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Co to je berakot?\na) výrok z Bible, který provázel židy po celý den\nb) židovský druh oblečení\nc) mnišký opasek používaný ke střelné modlitbě",
+            "answer": "výrok z Bible, který provázel židy po celý den",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ],
+      [
+         {
+            "question": "Kdy začíná liturgický rok?",
+            "answer": "dobou adventní",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Jakou barvu ornátu nosí kněz v mezidobí?",
+            "answer": "zelenou",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Vyjmenuj jak jdou po sobě liturgická období.",
+            "answer": "doba adventní, doba vánoční, mezidobí, doba postní, doba velikonoční, mezidobí",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Je popeleční středa vždy ve stejný datum?",
+            "answer": "ne, není",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Jak se určí jaký je zrovna liturgický rok/cyklus?",
+            "answer": "Otevřeš si kůčovu apku, která to spočítá za tebe: https://cyklus.petrkucerak.cz/. Jináč se ale počítá tak, že provedeš celočíselný součet jednotlivých cifer a výsledek převedeš do modulo 3. Pak platí, že: 0 => cyklus C, 1 => cyklus A, 2 => cyklus B.",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ],
+      [
+         {
+            "question": "Můžu být křesťanem a nevěřit v zmrtvýchvstání?",
+            "answer": "ne",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Existuje situace kdy může kněz porušit zpovědní tajemství a jaká?",
+            "answer": "zpovědní tajemství porušit nemůže nikdy",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Kolikrát a kde v Bibli je psáno o tetování?",
+            "answer": "Pouze jedenkrát a to ve Starém Zákoně (v knize Leviticus)",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Jaká je podle 13 kapitoly prvního listu korintským láska? Vyjmenuj alespoň 4 vlastnosti. (Nápověda, text se často čte na svatbách a začíná: \"Láska je __, je __ láska __, láska se ...\")",
+            "answer": "Láska je trpělivá, je laskavá, láska nezávidí, láska se nevychloubá ani nepovyšuje; není hrubá, nehledá svůj prospěch, není vznětlivá, nepočítá křivdy, není škodolibá, ale raduje se z pravdy; všechno snáší, všemu věří, vždycky doufá, všechno vydrží. Láska nikdy neskončí. Avšak proroctví – ta zaniknou, jazyky – ty umlknou, poznání – to pomine. ",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "ZLATÁ CIHLIČKA",
+            "answer": "ZLATÁ CIHLIČKA",
+            "brick": true,
+            "available": true,
+            "picture": null
+         }
+      ]
+   ]
+}

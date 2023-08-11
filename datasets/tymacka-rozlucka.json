@@ -1,0 +1,165 @@
+{
+   "issues": [
+      "Vesmír",
+      "Jak znáš své kněze",
+      "Historie",
+      "Aktivity"
+   ],
+   "values": [
+      "100",
+      "200",
+      "300",
+      "400",
+      "500"
+   ],
+   "questions": [
+      [
+         {
+            "question": "Jaké květiny rostou v jídelně na parapetech?",
+            "answer": "muškáty (latinsky bonus Pelargonie)",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Jak se jmenují všechny Vesmírné ledničky?",
+            "answer": "Marfuša, Nastěnka, Elza, Žofka, Barborka",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Kolik schodů musí člověk překonat aby se od sluníčka dostal na štít (tolerance ± 2)?",
+            "answer": "50",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Jaká je ESPzetka vesmírné oktávky?",
+            "answer": "6H9 6237",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Z jakého roku je daná věc (David ukazuje)",
+            "answer": "Jablíčka 2013",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ],
+      [
+         {
+            "question": "Kdo má ve farnosti více kostelů?",
+            "answer": "",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Kdo má více sourozenců?",
+            "answer": "",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Kdo má více nevyřízených emailů?",
+            "answer": "",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Kdo řekl Messimu Holoubku?",
+            "answer": "",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Kdo umí lépe Italsky?",
+            "answer": "",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ],
+      [
+         {
+            "question": "Jaké bylo téma letošního Silvestru?",
+            "answer": "cesta k Rytířství",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Jaká rodina byla na jaře 2023 na Vesmíru nejčastěji?",
+            "answer": "Traxlerovi",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Kolik let je dohromady všem vesmírným ředitelům?",
+            "answer": "69 + 57 = 126",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Jaká byla první akce týmu?",
+            "answer": "zasedání sekce pro mládež / hodnocení CSM",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Kdo jako první pronesl větu: Blažený je ten kdo může jíst Stejskalovy párky? (Majki, Tomáš, Prokop Brož, biskup Jan Vokál)",
+            "answer": "Prokop Brož",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ],
+      [
+         {
+            "question": "Úkol 100",
+            "answer": "",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Úkol 200",
+            "answer": "",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Úkol 300",
+            "answer": "",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Úkol 400",
+            "answer": "",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Úkol 500",
+            "answer": "",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ]
+   ]
+}

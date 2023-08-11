@@ -15,14 +15,14 @@
    "questions": [
       [
          {
-            "question": "Jaké květiny rostou v jídelně na parapetech?",
-            "answer": "muškáty (latinsky bonus Pelargonie)",
+            "question": "Za minutu vyjmenuj chronologicky všechny vesmírné týmáky",
+            "answer": "",
             "brick": false,
             "available": true,
             "picture": null
          },
          {
-            "question": "Jak se jmenují všechny Vesmírné ledničky?",
+            "question": "Jak se jmenují všechny vesmírné ledničky?",
             "answer": "Marfuša, Nastěnka, Elza, Žofka, Barborka",
             "brick": false,
             "available": true,
@@ -97,7 +97,7 @@
          },
          {
             "question": "Jaká rodina byla na jaře 2023 na Vesmíru nejčastěji?",
-            "answer": "Traxlerovi",
+            "answer": "Klainerovi",
             "brick": false,
             "available": true,
             "picture": null

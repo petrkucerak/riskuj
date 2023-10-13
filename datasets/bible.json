@@ -1,0 +1,203 @@
+{
+   "issues": [
+      "Najdi ASAP",
+      "Kam patřím?",
+      "Struktura",
+      "Maskaaa 🎭",
+      "Tuzkaaa ✏️"
+   ],
+   "values": [
+      "1 000",
+      "2 000",
+      "3 000",
+      "4 000",
+      "5 000"
+   ],
+   "questions": [
+      [
+         {
+            "question": "Mt 6,7",
+            "answer": "1122...",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Ž 123,4",
+            "answer": "623...",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "J 8,31",
+            "answer": "1213",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Ag 3,10",
+            "answer": "933",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Bár 3,3",
+            "answer": "1047...",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ],
+      [
+         {
+            "question": "Mojžíš",
+            "answer": "Starý Zákon",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Marie Magdaléna",
+            "answer": "Nový Zákon",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Zuzana",
+            "answer": "Starý Zákon - přídavky o Danielovi (1056)",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Ester",
+            "answer": "Starý Zákon",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Bél",
+            "answer": "Z příběhu Bél a drak. (1057) - Starý Zákon",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ],
+      [
+         {
+            "question": "Na jaké 2 části se dělí Bible?",
+            "answer": "Starý / Nový Zákon",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Jaké znáš apoštoly?",
+            "answer": "Matouš, Marek, Lukáš, Jan",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Čím končí Bible?",
+            "answer": "Zjevení Janovo, tečkou, Milost Pána Ježíše se všemi.",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Kolik je Mojžíšových knih?",
+            "answer": "5 knih",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Jaký je rozdíl mezi tzv. kanonickými a deutrokanonockými knihami?",
+            "answer": "Deutro - scvháleny až později. Nejsou uznávány židy a protestanty (ti říkají tzv. pseudoapokryfy).",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ],
+      [
+         {
+            "question": "",
+            "answer": "Ukřičování Ježíše",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "",
+            "answer": "Poseldní večeře",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "",
+            "answer": "Mojžíš provádí lid oceánem",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "",
+            "answer": "Stvoření světa",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "",
+            "answer": "Ukřižování apoštola Petra hlavou dolů",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ],
+      [
+         {
+            "question": "",
+            "answer": "Petr chodí po vodě",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "",
+            "answer": "Mojžíš láme desatero",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "",
+            "answer": "Stavba babylónské věže",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "",
+            "answer": "Ježíš padá pod křížem potřetí",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "",
+            "answer": "Pilát si myje ruce",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ]
+   ]
+}

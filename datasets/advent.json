@@ -1,0 +1,136 @@
+{
+   "issues": [
+      "sv. Josef",
+      "Rituály",
+      "sv. Alžběta 🎭",
+      "sv. Zachariáš ✏️"
+   ],
+   "values": [
+      "100",
+      "200",
+      "400",
+      "500"
+   ],
+   "questions": [
+      [
+         {
+            "question": " Josef se živil jako (pastevec a zemědělec, učitel Zákona, tesař)",
+            "answer": "tesař",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Josef pocházel z rodu (Benjamínova, Davidova, Ezauova)",
+            "answer": "Davidova",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Jaký byl vztah Josefa a Marie?",
+            "answer": "https://catholica.cz/?id=997",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Vyzobněte jednu věc z Josefova příběhu a aktualizujte ji",
+            "answer": "",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ],
+      [
+         {
+            "question": "Co je v liturgickém období před adventem?",
+            "answer": "konec liturgického roku - Slavnost Krista Krále",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Co to jsou roráty a co je pro ně charakteristické?",
+            "answer": "",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Jaká část mše svaté chybí při každé mši v období adventu?",
+            "answer": "část ordinária - Sláva",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Aktualizujte jednu z myšlenek adventu",
+            "answer": "",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ],
+      [
+         {
+            "question": "Kdo to byla Sv. Alžběta?",
+            "answer": "mamka Jana Křtitele, příbuzná Marie (ségra, sestřenka?)",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Kdo byl manželem Alžběty",
+            "answer": "Zachariáš",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Kdy se stalo toto? Když Alžběta uslyšela Mariin pozdrav, pohnulo se dítě v jejím těle; byla naplněna Duchem svatým a zvolala velikým hlasem: ‚Požehnaná jsi nade všechny ženy a požehnaný plod tvého těla ...‘",
+            "answer": "",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Aktualizuj příběh Alžběty",
+            "answer": "",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ],
+      [
+         {
+            "question": "Kdo to byl Sv. Zachariáš",
+            "answer": "táta sv. Josefa",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Čím se živil Sv. Zachariáš?",
+            "answer": "byl to kněz",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Proč Zachariáš přestal mluvit a do kdy?",
+            "answer": "",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Aktualizuj příběh Zachariíše",
+            "answer": "",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ]
+   ]
+}

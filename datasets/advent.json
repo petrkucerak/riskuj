@@ -2,8 +2,8 @@
    "issues": [
       "sv. Josef",
       "Rituály",
-      "sv. Alžběta 🎭",
-      "sv. Zachariáš ✏️"
+      "sv. Alžběta",
+      "sv. Zachariáš"
    ],
    "values": [
       "100",
@@ -105,7 +105,7 @@
       [
          {
             "question": "Kdo to byl Sv. Zachariáš",
-            "answer": "táta sv. Josefa",
+            "answer": "táta sv. Jana",
             "brick": false,
             "available": true,
             "picture": null
@@ -125,7 +125,7 @@
             "picture": null
          },
          {
-            "question": "Aktualizuj příběh Zachariíše",
+            "question": "Aktualizuj příběh Zachariáše",
             "answer": "",
             "brick": false,
             "available": true,

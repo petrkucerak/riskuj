@@ -1,0 +1,105 @@
+{
+   "issues": [
+      "Historie",
+      "Obecné",
+      "Popelec"
+   ],
+   "values": [
+      "1 000",
+      "2 000",
+      "3 000",
+      "4 000"
+   ],
+   "questions": [
+      [
+         {
+            "question": "V jakém století se objevila modlitba pro žehnání popelu? (9. stol, 10. stol., 11. stol.)",
+            "answer": "11. stol",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "V jakém století se objevil předpis pro to, že se má popel tvořit ze svěcených ratolestí Květné neděle? (11. stol., 12. stol., 13. stol.)",
+            "answer": "12. stol",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Jaký papež doporučil obyčej označování popelem na Benevetské synodě roku 1091? (Miluláš II., Lucius II., Urban II., )",
+            "answer": "Urban II.",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Jak se původně uděloval popel? (lidé se v něm koupali, všem se sypal na hlavu, mužum se sypal na hlavu a ženám se dělal křížek na čelo)",
+            "answer": "Mužům se sypal na hlavu, ženám (kvůli závoji) se dělalo znamení kříže na čele",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ],
+      [
+         {
+            "question": "Na jaký datum letos připadá popeleční středa?",
+            "answer": "22. 2. 2023",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Jaké liturgické období začíná popeleční středou?",
+            "answer": "půst",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Co určuje datum popeleční středy?",
+            "answer": "Vzdálenost od Velikonoční neděle (půst je 40 dní, středa tedy připadá na 46. den před Velikonoční nedělí)",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Jaké slova se naříkají při udělování popelce?",
+            "answer": "Obraťte se a věřte evangeliu nebo Pamatuj, že prach jsi a v prach se obrátíš",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ],
+      [
+         {
+            "question": "Čeho je popelec znamením?",
+            "answer": "řijetí popelce je znamením pomíjivosti člověka a odhodlání zříci se zlého jednání (hříchu).",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Odkud pochází symbol popelu?",
+            "answer": "Tento symbol je převzatý z biblické tradice. Symbolicky se tak naznačuje stav člověka, který vyznává před Bohem svůj mnohdy špatný život, své nepravosti, své zlé jednání (hřích) a vyjadřuje vůli vnitřně se obrátit s nadějí, že mu Bůh odpustí.",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Z čeho se vyrábí popelec?",
+            "answer": "ratolesti z Květné neděle",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "K čemu se dříve využíval popelec?",
+            "answer": "k čištění",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ]
+   ]
+}

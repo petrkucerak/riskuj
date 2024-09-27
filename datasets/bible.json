@@ -97,7 +97,7 @@
             "picture": null
          },
          {
-            "question": "Jaké znáš apoštoly?",
+            "question": "Jaké znáš evangelisty?",
             "answer": "Matouš, Marek, Lukáš, Jan",
             "brick": false,
             "available": true,
@@ -128,7 +128,7 @@
       [
          {
             "question": "",
-            "answer": "Ukřičování Ježíše",
+            "answer": "Ukřižování Ježíše",
             "brick": false,
             "available": true,
             "picture": null

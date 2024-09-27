@@ -1,0 +1,203 @@
+{
+   "issues": [
+      "Najdi ASAP",
+      "Kam patřím?",
+      "Struktura",
+      "Maskaaa 🎭",
+      "Tuzkaaa ✏️"
+   ],
+   "values": [
+      "1 000",
+      "2 000",
+      "3 000",
+      "4 000",
+      "5 000"
+   ],
+   "questions": [
+      [
+         {
+            "question": "J 14:6",
+            "answer": "Ježíš mu odpověděl: „Já jsem ta cesta, pravda i život. Nikdo nepřichází k Otci než skrze mne.",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "L 18:9-14",
+            "answer": "O těch, kteří si na sobě zakládali, že jsou spravedliví, a ostatními pohrdali, řekl toto podobenství: „Dva muži vstoupili do chrámu, aby se modlili; jeden byl farizeus, druhý celník. Farizeus se postavil a takto se sám u sebe modlil: ‚Bože, děkuji ti, že nejsem jako ostatní lidé, vyděrači, nepoctivci, cizoložníci, nebo i jako tento celník. Postím se dvakrát za týden a dávám desátky ze všeho, co získám.‘ Avšak celník stál docela vzadu a neodvážil se ani oči k nebi pozdvihnout; bil se do prsou a říkal: ‚Bože, slituj se nade mnou hříšným.‘ Pravím vám, že ten celník se vrátil ospravedlněn do svého domu, a ne farizeus. Neboť každý, kdo se povyšuje, bude ponížen, a kdo se ponižuje, bude povýšen.“",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "John 3:16-17",
+            "answer": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. For God did not send his Son into the world to condemn the world, but to save the world through him.",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Acts 4:12",
+            "answer": "Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved.",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "1 Timothy 2:3-4",
+            "answer": "This is good, and pleases God our Savior, who wants all people to be saved and to come to a knowledge of the truth.",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ],
+      [
+         {
+            "question": "Mojžíš",
+            "answer": "Starý Zákon",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Marie Magdaléna",
+            "answer": "Nový Zákon",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Zuzana",
+            "answer": "Starý Zákon - přídavky o Danielovi (1056)",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Ester",
+            "answer": "Starý Zákon",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Bél",
+            "answer": "Z příběhu Bél a drak. (1057) - Starý Zákon",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ],
+      [
+         {
+            "question": "Na jaké 2 části se dělí Bible?",
+            "answer": "Starý / Nový Zákon",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Jaké znáš evangelisty?",
+            "answer": "Matouš, Marek, Lukáš, Jan",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Čím končí Bible?",
+            "answer": "Zjevení Janovo, tečkou, Milost Pána Ježíše se všemi.",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Kolik je Mojžíšových knih?",
+            "answer": "5 knih",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Jaký je rozdíl mezi tzv. kanonickými a deutrokanonockými knihami?",
+            "answer": "Deutro - scvháleny až později. Nejsou uznávány židy a protestanty (ti říkají tzv. pseudoapokryfy).",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ],
+      [
+         {
+            "question": "",
+            "answer": "Ukřižování Ježíše",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "",
+            "answer": "Poseldní večeře",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "",
+            "answer": "Mojžíš provádí lid oceánem",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "",
+            "answer": "Stvoření světa",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "",
+            "answer": "Ukřižování apoštola Petra hlavou dolů",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ],
+      [
+         {
+            "question": "",
+            "answer": "Petr chodí po vodě",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "",
+            "answer": "Mojžíš láme desatero",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "",
+            "answer": "Stavba babylónské věže",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "",
+            "answer": "Ježíš padá pod křížem potřetí",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "",
+            "answer": "Pilát si myje ruce",
+            "brick": false,
+            "available": true,
+            "picture": null
+         }
+      ]
+   ]
+}

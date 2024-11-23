@@ -165,36 +165,36 @@
       ],
       [
          {
-            "question": "Dcera syna mojí babičky je moje ...",
+            "question": "Zatanči baletn",
             "answer": "sestra nebo sestřenice",
             "brick": false,
             "available": true,
             "picture": null
          },
          {
-            "question": "Ze kterého ovoce se vyrábějí povidla?",
+            "question": "",
             "answer": "ze švestek",
             "brick": false,
             "available": true,
             "picture": null
          },
          {
-            "question": "Jaké je telefonní číslo policie?",
-            "answer": "158",
+            "question": "Vytáhni sirku z krabičky jednou rukou",
+            "answer": "",
             "brick": false,
             "available": true,
             "picture": null
          },
          {
-            "question": "Kdo nebo co je to eskamotér?",
+            "question": "",
             "answer": "kdo předvádí eskamotáž, iluzionista, žonglér",
             "brick": false,
             "available": true,
             "picture": null
          },
          {
-            "question": "Co to je GPS?",
-            "answer": "navigační systém",
+            "question": "Vyjmenuj za minutu minimálně 15 písniček, které obsahují slovo ...",
+            "answer": "Ježíš",
             "brick": false,
             "available": true,
             "picture": null
@@ -202,8 +202,8 @@
       ],
       [
          {
-            "question": "Jaké je číslo na zdravotní službu?",
-            "answer": "155, uznat i 112",
+            "question": "Pojď freestyle na 4 akordovou písničku",
+            "answer": "",
             "brick": false,
             "available": true,
             "picture": null

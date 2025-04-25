@@ -1,0 +1,351 @@
+{
+   "issues": [
+      "Historie papežů",
+      "Konkláve",
+      "Papež František",
+      "Temná strana",
+      "Vatikánské bizáry"
+   ],
+   "values": [
+      "1 000",
+      "2 000",
+      "3 000",
+      "4 000",
+      "5 000",
+      "6 000",
+      "7 000",
+      "8 000"
+   ],
+   "questions": [
+      [
+         {
+            "question": "Kdo byl prvním papežem v historii podle katolické tradice? (Petr, Linus, Klement I.)",
+            "answer": "Petr",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/vatican/en/holy-father.html"
+         },
+         {
+            "question": "Který papež jako první použil označení 'papež' ve svém titulu? (Jan I., Řehoř I., Bonifác III.)",
+            "answer": "Řehoř I.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://en.wikipedia.org/wiki/Pope_Gregory_I"
+         },
+         {
+            "question": "Kolik let trvalo pontifikát papeže Pia IX., což je nejdelší v historii? (20, 31, 39)",
+            "answer": "31",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/pius-ix/en.html"
+         },
+         {
+            "question": "Který papež svolal První vatikánský koncil v roce 1869? (Řehoř XVI., Pius IX., Lev XIII.)",
+            "answer": "Pius IX.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/pius-ix/en.html"
+         },
+         {
+            "question": "Kdo byl posledním neitalským papežem před Janem Pavlem II.? (Hadrián VI., Alexandr VI., Klement VII.)",
+            "answer": "Hadrián VI.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://en.wikipedia.org/wiki/Pope_Adrian_VI"
+         },
+         {
+            "question": "Který papež vydal bulu 'Unam Sanctam' o nadřazenosti papežské moci? (Bonifác VIII., Inocenc III., Řehoř VII.)",
+            "answer": "Bonifác VIII.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.newadvent.org/cathen/02662c.htm"
+         },
+         {
+            "question": "Který papež byl prvním, kdo abdikoval dobrovolně od 13. století? (Benedikt XVI., Jan Pavel II., František)",
+            "answer": "Benedikt XVI.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/benedict-xvi/en.html"
+         },
+         {
+            "question": "Kolik papežů bylo oficiálně uznáno od apoštola Petra do roku 2025? (266, 278, 290)",
+            "answer": "266",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/vatican/en/hSEDoly-father.html"
+         }
+      ],
+      [
+         {
+            "question": "Co je konkláve? (Mše za zesnulého papeže, Volba nového papeže, Setkání kardinálů o církevních reformách)",
+            "answer": "Volba nového papeže",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/news_services/press/documentazione/documents/conclave/conclave_en.html"
+         },
+         {
+            "question": "Kde se tradičně koná konkláve? (Svatopetrský chrám, Sixtinská kaple, Lateránský palác)",
+            "answer": "Sixtinská kaple",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/news_services/press/documentazione/documents/conclave/conclave_en.html"
+         },
+         {
+            "question": "Kolik kardinálů může maximálně hlasovat v konkláve? (120, 140, 160)",
+            "answer": "120",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/roman_curia/congregations/ccatholic_education/documents/rc_con_ccatheduc_doc_19970416_normae-universae_en.html"
+         },
+         {
+            "question": "Jaké latinské heslo ohlašuje zvolení nového papeže? (Habemus Papam, Annuntio Vobis, Electus Est)",
+            "answer": "Habemus Papam",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/news_services/press/documentazione/documents/conclave/conclave_en.html"
+         },
+         {
+            "question": "Jaký je minimální počet hlasů potřebný pro zvolení papeže? (Třetina, Polovina, Dvě třetiny)",
+            "answer": "Dvě třetiny",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/roman_curia/congregations/ccatholic_education/documents/rc_con_ccatheduc_doc_19970416_normae-universae_en.html"
+         },
+         {
+            "question": "Co se děje s hlasovacími lístky po každém kole? (Ukládají se, Spalují se, Předávají se kardinálům)",
+            "answer": "Spalují se",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/news_services/press/documentazione/documents/conclave/conclave_en.html"
+         },
+         {
+            "question": "Jaký signál oznamuje úspěšné zvolení papeže? (Černý kouř, Bílý kouř, Zvony Vatikánu)",
+            "answer": "Bílý kouř",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/news_services/press/documentazione/documents/conclave/conclave_en.html"
+         },
+         {
+            "question": "Kdo vede konkláve, pokud není přítomen kardinál-děkan? (Nejstarší kardinál, Kamerlengo, Sekretář státu)",
+            "answer": "Kamerlengo",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/news_services/press/documentazione/documents/conclave/conclave_en.html"
+         }
+      ],
+      [
+         {
+            "question": "Jaké je rodné jméno papeže Františka? (Jorge Bergoglio, Juan Bergoglio, José Bergoglio)",
+            "answer": "Jorge Bergoglio",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/francesco/en.html"
+         },
+         {
+            "question": "Z jaké země papež František pochází? (Argentina, Chile, Uruguay)",
+            "answer": "Argentina",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/francesco/en.html"
+         },
+         {
+            "question": "Jaký řád zastupoval František před svým zvolením? (Františkáni, Jezuité, Dominikáni)",
+            "answer": "Jezuité",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/francesco/en.html"
+         },
+         {
+            "question": "V jakém roce byl František zvolen papežem? (2011, 2013, 2015)",
+            "answer": "2013",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/francesco/en.html"
+         },
+         {
+            "question": "Jaké povolání měl František před vstupem do kněžství? (Učitel, Chemik, Lékař)",
+            "answer": "Chemik",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/francesco/en.html"
+         },
+         {
+            "question": "Kterou encykliku vydal František v roce 2015 o životním prostředí? (Laudato Si’, Amoris Laetitia, Evangelii Gaudium)",
+            "answer": "Laudato Si’",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html"
+         },
+         {
+            "question": "Jaké město byl František arcibiskupem před zvolením papežem? (Santiago, Buenos Aires, Lima)",
+            "answer": "Buenos Aires",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/francesco/en.html"
+         },
+         {
+            "question": "Který svátek František ustanovil na počest chudých? (Světový den chudých, Den solidarity, Den milosrdenství)",
+            "answer": "Světový den chudých",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/francesco/en/messages/poveri/documents/papa-francesco_20170613_messaggio-i-giornata-mondiale-poveri.html"
+         }
+      ],
+      [
+         {
+            "question": "Který papež byl obviněn z prodeje církevních úřadů během 10. století? (Jan XII., Benedikt IX., Sergius III.)",
+            "answer": "Benedikt IX.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.newadvent.org/cathen/02429a.htm"
+         },
+         {
+            "question": "Které období církevních dějin je označováno jako 'pornokratie'? (9.–10. stol., 12.–13. stol., 15.–16. stol.)",
+            "answer": "9.–10. stol.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://en.wikipedia.org/wiki/Saeculum_obscurum"
+         },
+         {
+            "question": "Který papež byl obviňován z podpory korupce a nepotismu za rodu Borgiů? (Alexandr VI., Julius II., Sixtus IV.)",
+            "answer": "Alexandr VI.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.newadvent.org/cathen/01289a.htm"
+         },
+         {
+            "question": "Který papež rozpoutal Západní schizma v roce 1378? (Urban VI., Klement VII., Bonifác IX.)",
+            "answer": "Urban VI.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.newadvent.org/cathen/13539a.htm"
+         },
+         {
+            "question": "Kdo byl posledním protipapežem v historii? (Felix V., Jan XXIII., Klement VIII.)",
+            "answer": "Felix V.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.newadvent.org/cathen/01122b.htm"
+         },
+         {
+            "question": "Který papež nařídil proces s mrtvým tělem svého předchůdce na Synodu cadaver? (Štěpán VI., Formosus, Jan IX.)",
+            "answer": "Štěpán VI.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.newadvent.org/cathen/14002b.htm"
+         },
+         {
+            "question": "Který papež byl uvězněn francouzským králem Filipem IV. v roce 1303? (Bonifác VIII., Klement V., Jan XXII.)",
+            "answer": "Bonifác VIII.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.newadvent.org/cathen/02662c.htm"
+         },
+         {
+            "question": "Které město bylo sídlem papežů během tzv. Avignonského zajetí? (Avignon, Florencie, Milán)",
+            "answer": "Avignon",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.newadvent.org/cathen/02158a.htm"
+         }
+      ],
+      [
+         {
+            "question": "Jak se jmenuje tajný archiv Vatikánu? (Apostolský archiv, Svatý archiv, Vatikánský tajný archiv)",
+            "answer": "Vatikánský tajný archiv",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/vatican/en/roman-curia/secret-archives.html"
+         },
+         {
+            "question": "Co je 'Pátá místnost' ve Vatikánu? (Sklad relikvií, Místnost pro exorcismus, Trezor pro cennosti)",
+            "answer": "Trezor pro cennosti",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vaticannews.va/en/vatican-city/news/2023-03/vatican-secret-archives-fifth-room.html"
+         },
+         {
+            "question": "Který předmět nosí papež jako symbol své moci? (Paliový kříž, Rybářský prsten, Zlatý klíč)",
+            "answer": "Rybářský prsten",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/news_services/press/documentazione/documents/papa-simboli/papa-simboli_en.html"
+         },
+         {
+            "question": "Co je tzv. 'Sedia Gestatoria'? (Přenosný trůn, Papežský kočár, Modlitební lavice)",
+            "answer": "Přenosný trůn",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.newadvent.org/cathen/13539a.htm"
+         },
+         {
+            "question": "Jaký neobvyklý dopravní prostředek používal Jan Pavel II. ve Vatikánu? (Golfový vozík, Elektrokolo, Segway)",
+            "answer": "Golfový vozík",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vaticannews.va/en/pope/news/2020-10/pope-john-paul-ii-golf-cart.html"
+         },
+         {
+            "question": "Jaký je název vatikánské lékárny, jedné z nejstarších na světě? (Farmacia Vaticana, Sancta Cura, Apostolská lékárna)",
+            "answer": "Farmacia Vaticana",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/vatican/en/roman-curia/institutions-connected-with-the-holy-see/vatican-pharmacy.html"
+         },
+         {
+            "question": "Který pták je chován ve vatikánských zahradách jako symbol míru? (Holubice, Papoušek, Labuť)",
+            "answer": "Holubice",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/vatican/en/vatican-city/gardens.html"
+         },
+         {
+            "question": "Jaký je název vatikánské poštovní služby? (Posta Vaticana, Sancta Posta, Apostolská pošta)",
+            "answer": "Posta Vaticana",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/vatican/en/roman-curia/institutions-connected-with-the-holy-see/vatican-post.html"
+         }
+      ]
+   ]
+}

@@ -175,7 +175,15 @@
             "source": "https://www.vatican.va/content/francesco/en.html"
          },
          {
-            "question": "V jakém roce byl František zvolen papežem? (2011, 2013, 2015)",
+            "question": "Který svátek František ustanovil na počest chudých? (Světový den chudých, Den solidarity, Den milosrdenství)",
+            "answer": "Světový den chudých - Světový den chudých je římskokatolický svátek, který se slaví od roku 2017 vždy o 33. neděli v liturgického mezidobí. Zavedl jej papež František ve svém apoštolském listě Misericordia et Misera vydaném 20. listopadu 2016 u příležitosti ukončení mimořádného Jubilea milosrdenství.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Sv%C4%9Btov%C3%BD_den_chud%C3%BDch"
+         },
+         {
+            "question": "V jakém roce byl František zvolen papežem? (2009, 2011, 2013)",
             "answer": "2013",
             "brick": false,
             "available": true,
@@ -200,19 +208,11 @@
          },
          {
             "question": "Jaké město byl František arcibiskupem před zvolením papežem? (Santiago, Buenos Aires, Lima)",
-            "answer": "Buenos Aires",
+            "answer": "Buenos Aires - The 76-year-old Jesuit Archbishop of Buenos Aires",
             "brick": false,
             "available": true,
             "picture": null,
             "source": "https://www.vatican.va/content/francesco/en.html"
-         },
-         {
-            "question": "Který svátek František ustanovil na počest chudých? (Světový den chudých, Den solidarity, Den milosrdenství)",
-            "answer": "Světový den chudých",
-            "brick": false,
-            "available": true,
-            "picture": null,
-            "source": "https://www.vatican.va/content/francesco/en/messages/poveri/documents/papa-francesco_20170613_messaggio-i-giornata-mondiale-poveri.html"
          }
       ],
       [

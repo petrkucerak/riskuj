@@ -218,133 +218,132 @@
       [
          {
             "question": "Který papež byl obviněn z prodeje církevních úřadů během 10. století? (Jan XII., Benedikt IX., Sergius III.)",
-            "answer": "Benedikt IX.",
+            "answer": "Benedikt IX. - https://cs.wikipedia.org/wiki/Benedikt_IX.",
             "brick": false,
             "available": true,
             "picture": null,
-            "source": "https://www.newadvent.org/cathen/02429a.htm"
+            "source": "https://cs.wikipedia.org/wiki/Benedikt_IX."
          },
          {
             "question": "Které období církevních dějin je označováno jako 'pornokratie'? (9.–10. stol., 12.–13. stol., 15.–16. stol.)",
-            "answer": "9.–10. stol.",
+            "answer": "9.–10. stol. - https://cs.wikipedia.org/wiki/Pornokracie",
             "brick": false,
             "available": true,
             "picture": null,
-            "source": "https://en.wikipedia.org/wiki/Saeculum_obscurum"
+            "source": "https://en.wikipedia.org/wiki/Saeculum_obscurum, https://cs.wikipedia.org/wiki/Pornokracie"
          },
          {
-            "question": "Který papež byl obviňován z podpory korupce a nepotismu za rodu Borgiů? (Alexandr VI., Julius II., Sixtus IV.)",
-            "answer": "Alexandr VI.",
+            "question": "Které město bylo sídlem papežů během tzv. Avignonského zajetí? (Florencie, Avignon, Milán)",
+            "answer": "Avignon - Avignonské papežství (francouzsky Papauté d'Avignon, italsky Papato di Avignone), známé jako takzvané avignonské zajetí (také tzv. „babylonské zajetí církve“), je období let 1309–1378, kdy papeži sídlili místo Říma v Avignonu ve Francii (město bylo odkoupeno jako samostatná enkláva až za papeže Klementa VI.). Poté až do roku 1430 byl Avignon sídlem vzdoropapežů. Ve 14. století se papežský stát dostal pod silný vliv Francie a došlo k velkému úpadku katolické církve. Sídlo v Avignonu si vybudoval, prý kvůli lepším podmínkám pro chatrné zdraví, Klement V., který byl zcela závislý na francouzském panovníkovi. Také jeho následníci zůstávali zcela ve vleku francouzské politiky a papežský dvůr se luxusním životním stylem nijak nelišil od světských dvorů panovnických.",
             "brick": false,
             "available": true,
             "picture": null,
-            "source": "https://www.newadvent.org/cathen/01289a.htm"
+            "source": "https://cs.wikipedia.org/wiki/Avignonsk%C3%A9_pape%C5%BEstv%C3%AD"
          },
          {
-            "question": "Který papež rozpoutal Západní schizma v roce 1378? (Urban VI., Klement VII., Bonifác IX.)",
+            "question": "Který papež byl obviňován z podpory korupce a nepotismu (obsazuje na pozide svoje příbuzné)? (Alexandr VI., Julius II., Sixtus IV.)",
+            "answer": "Alexandr VI. - https://cs.wikipedia.org/wiki/Alexandr_VI.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Alexandr_VI."
+         },
+         {
+            "question": "Který papež rozpoutal Západní schizma (vládne více papežů) v roce 1378? (Klement VII., Bonifác IX., Urban VI.)",
             "answer": "Urban VI.",
             "brick": false,
             "available": true,
             "picture": null,
-            "source": "https://www.newadvent.org/cathen/13539a.htm"
+            "source": "https://cs.wikipedia.org/wiki/Urban_VI."
          },
          {
             "question": "Kdo byl posledním protipapežem v historii? (Felix V., Jan XXIII., Klement VIII.)",
-            "answer": "Felix V.",
+            "answer": "Felix V. - Protipápež alebo vzdoropápež je osoba, ktorá sa verejne dožaduje uznania svojho nároku na úrad pápeža, ale nie je uznaná vedením katolíckej cirkvi. Historickí protipápeži boli charakterizovaní podporou niektorej z častí cirkvi napr. skupiny biskupov, ale chýbalo im legitímne zvolenie do pápežského úradu.",
             "brick": false,
             "available": true,
             "picture": null,
-            "source": "https://www.newadvent.org/cathen/01122b.htm"
+            "source": "https://sk.wikipedia.org/wiki/Zoznam_protip%C3%A1pe%C5%BEov"
          },
          {
-            "question": "Který papež nařídil proces s mrtvým tělem svého předchůdce na Synodu cadaver? (Štěpán VI., Formosus, Jan IX.)",
-            "answer": "Štěpán VI.",
+            "question": "Který papež nařídil proces s mrtvým tělem svého předchůdce na  (mrtvých)? (Štěpán VI., Formosus, Jan IX.)",
+            "answer": "Štěpán VI. - Synoda mrtvých (897), latinsky Synodus horrenda, je označení pro synodu uspořádanou papežem Štěpánem VI., na níž byla přivlečena devět měsíců stará mrtvola Štěpánova předchůdce papeže Formosa. Jedná se o typický projev úpadku papežství v jeho temném období (891–1049).",
             "brick": false,
             "available": true,
             "picture": null,
-            "source": "https://www.newadvent.org/cathen/14002b.htm"
+            "source": "https://cs.wikipedia.org/wiki/Synoda_mrtv%C3%BDch"
          },
          {
             "question": "Který papež byl uvězněn francouzským králem Filipem IV. v roce 1303? (Bonifác VIII., Klement V., Jan XXII.)",
-            "answer": "Bonifác VIII.",
+            "answer": "Bonifác VIII. - Bonifác VIII. (1235, Anagni – 11. října 1303, Řím), vlastním jménem Benedetto Caëtani byl papež od 24. prosince 1294 až do své smrti 11. října 1303. Byl posledním mocensky silným papežem vrcholného středověku, jehož autorita byla nezávislá na světských panovnících. V jeho době se ale zároveň silně vyostřil právě konflikt mezi mocí církevní a mocí světskou.",
             "brick": false,
             "available": true,
             "picture": null,
-            "source": "https://www.newadvent.org/cathen/02662c.htm"
-         },
-         {
-            "question": "Které město bylo sídlem papežů během tzv. Avignonského zajetí? (Avignon, Florencie, Milán)",
-            "answer": "Avignon",
-            "brick": false,
-            "available": true,
-            "picture": null,
-            "source": "https://www.newadvent.org/cathen/02158a.htm"
+            "source": "https://cs.wikipedia.org/wiki/Bonif%C3%A1c_VIII."
          }
       ],
       [
          {
-            "question": "Jak se jmenuje tajný archiv Vatikánu? (Apostolský archiv, Svatý archiv, Vatikánský tajný archiv)",
-            "answer": "Vatikánský tajný archiv",
-            "brick": false,
-            "available": true,
-            "picture": null,
-            "source": "https://www.vatican.va/content/vatican/en/roman-curia/secret-archives.html"
-         },
-         {
-            "question": "Co je 'Pátá místnost' ve Vatikánu? (Sklad relikvií, Místnost pro exorcismus, Trezor pro cennosti)",
-            "answer": "Trezor pro cennosti",
-            "brick": false,
-            "available": true,
-            "picture": null,
-            "source": "https://www.vaticannews.va/en/vatican-city/news/2023-03/vatican-secret-archives-fifth-room.html"
-         },
-         {
-            "question": "Který předmět nosí papež jako symbol své moci? (Paliový kříž, Rybářský prsten, Zlatý klíč)",
-            "answer": "Rybářský prsten",
-            "brick": false,
-            "available": true,
-            "picture": null,
-            "source": "https://www.vatican.va/news_services/press/documentazione/documents/papa-simboli/papa-simboli_en.html"
-         },
-         {
-            "question": "Co je tzv. 'Sedia Gestatoria'? (Přenosný trůn, Papežský kočár, Modlitební lavice)",
-            "answer": "Přenosný trůn",
-            "brick": false,
-            "available": true,
-            "picture": null,
-            "source": "https://www.newadvent.org/cathen/13539a.htm"
-         },
-         {
-            "question": "Jaký neobvyklý dopravní prostředek používal Jan Pavel II. ve Vatikánu? (Golfový vozík, Elektrokolo, Segway)",
-            "answer": "Golfový vozík",
-            "brick": false,
-            "available": true,
-            "picture": null,
-            "source": "https://www.vaticannews.va/en/pope/news/2020-10/pope-john-paul-ii-golf-cart.html"
-         },
-         {
-            "question": "Jaký je název vatikánské lékárny, jedné z nejstarších na světě? (Farmacia Vaticana, Sancta Cura, Apostolská lékárna)",
-            "answer": "Farmacia Vaticana",
-            "brick": false,
-            "available": true,
-            "picture": null,
-            "source": "https://www.vatican.va/content/vatican/en/roman-curia/institutions-connected-with-the-holy-see/vatican-pharmacy.html"
-         },
-         {
-            "question": "Který pták je chován ve vatikánských zahradách jako symbol míru? (Holubice, Papoušek, Labuť)",
-            "answer": "Holubice",
+            "question": "Kolik fotbalových týmu je ve vatikánu? (žádný, 3, 9)",
+            "answer": "K roku 2014 bylo ve Vatikánu celkem 9 týmů: Musei Vaticani (původně S.S. Hermes) - tým složený ze zaměstnanců Vatikánských muzeí (od 1966); Gsp - Guardia Svizzera Pontificia - tým Švýcarské gardy (od 1934); Gendarmeria - tým vatikánských četníků; Santos - smíšený tým bez vyhraněné vazby na konkrétní organizaci; DirTel - tým zaměstnanců vatikánské pošty; Archivio - tým zaměstnanců Vatikánského tajného archivu; Dirseco; Fortitudo 2007 - tým zaměstnanců guvernorátu; OPBG - tým zaměstnanců dětské nemocnice Bambino Gesù[24]",
             "brick": false,
             "available": true,
             "picture": null,
             "source": "https://www.vatican.va/content/vatican/en/vatican-city/gardens.html"
          },
          {
-            "question": "Jaký je název vatikánské poštovní služby? (Posta Vaticana, Sancta Posta, Apostolská pošta)",
-            "answer": "Posta Vaticana",
+            "question": "Jaký je název vatikánské poštovní služby? (Poste Vaticana, Sancta Posta, Apostolská pošta)",
+            "answer": "Poste Vaticana",
             "brick": false,
             "available": true,
             "picture": null,
-            "source": "https://www.vatican.va/content/vatican/en/roman-curia/institutions-connected-with-the-holy-see/vatican-post.html"
+            "source": "https://en.wikipedia.org/wiki/Poste_Vaticane"
+         },
+         {
+            "question": "Má Vatikán vlastní internetovou doménu?",
+            "answer": "Ano, .va",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Jaký je název vatikánské lékárny, jedné z nejstarších na světě? (Sancta Cura, Apostolská lékárna, Farmacia Vaticana)",
+            "answer": "Farmacia Vaticana - Vatikánská lékárna (italsky Farmacia Vaticana) je jedinou lékárnou Městského státu Vatikán. Jedná se o jednu z nejlépe zásobených a nejvíce navštěvovaných lékáren světa. Denně zde nakupuje až 2000 zákazníků, z nichž až polovina přichází z italského území.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Vatik%C3%A1nsk%C3%A1_l%C3%A9k%C3%A1rna"
+         },
+         {
+            "question": "Jak se jmenuje dříve tajný archiv Vatikánu? (Apostolský archiv, Svatý archiv, Zpravodajský archiv)",
+            "answer": "Vatikánský apoštolský archiv - Ústřední Vatikánský archiv byl při svém založení na počátku 17. století označen jako Nový archiv (latinsky Archivum Novum), aby se odlišil od starších archivů římské kurie, které měl sjednotit a zastřešit.[2] Původní název však brzy nahradil termín Apoštolský archiv (latinsky Archivum Apostolicum). V roce 1646 byl poprvé použit název Vatikánský tajný archiv (latinsky Archivum Secretum Vaticanum; italsky Archivio Segreto Vaticano), který se poté používal až do roku 2019. 22. října 2019 papež František obnovil původní název Vatikánský apoštolský archiv (latinsky Archivum Apostolicum Vaticanum).[1] Důvodem bylo nejen plánované širší zpřístupnění písemností včetně dokumentů z období druhé světové války, ale i snaha objasnit mylnou interpretaci názvu. Původní význam latinského termínu secretum totiž není „tajný“, nýbrž „soukromý”. Název Archivum Secretum Vaticanum tedy označoval soukromý archiv papeže, nikoliv archiv utajovaných dokumentů.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Vatik%C3%A1nsk%C3%BD_apo%C5%A1tolsk%C3%BD_archiv"
+         },
+         {
+            "question": "Jakou značku auta poslal papež František do dražby a peníze poslal na charitu? (Porshe, Mercedes, Ferary, Lamborghini)",
+            "answer": "Původní dárek automobilky Lamborghini současnému papeži Františkovi, unikátně upravený model Huracán, se stal hlavní cenou celosvětové loterie, jejíž výtěžek půjde na dobročinné účely. A vítězem hlavní ceny se stal Čech!",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.garaz.cz/clanek/papezovo-lamborghini-huracan-miri-ke-stastlivci-do-cech-21001302"
+         },
+         {
+            "question": "Který předmět nosí papež jako symbol své moci? (Paliový kříž, Rybářský prsten, Zlatý klíč)",
+            "answer": "Rybářský prsten - Rybářský prsten (latinsky Anulus piscatoris) je sekretní prstenová pečeť konkrétním papežem k pečetění méně významných dokumentů a tajné korespondence voskem červené barvy. Její používání je známo od 12. století do 19. století. Od 15. století se rybářský prsten používal i k pečetěni papežských breve.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Ryb%C3%A1%C5%99sk%C3%BD_prsten"
+         },
+         {
+            "question": "Co je tzv. 'Sedia Gestatoria'? (Přenosný trůn, Papežský kočár, Modlitební lavice)",
+            "answer": "Přenosný trůn - Sedia gestatoria je papežský přenosný trůn. Sedia sestávala z trůnu připevněného k plošině (suppedaneum) se dvěma tyčemi, které drželo 12 nosičů (sediari pontifici). Po stranách sedie byla nesena flabella, tj. vějíře z bílého pštrosího peří. Jako poslední užíval sedia gestatoria papež Jan Pavel I. v roce 1978. V současnosti plní funkci sedie papamobil.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Sedia_gestatoria"
          }
       ]
    ]

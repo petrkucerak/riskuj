@@ -1,0 +1,350 @@
+{
+   "issues": [
+      "Historie papežů",
+      "Konkláve",
+      "Papež František",
+      "Temná strana",
+      "Vatikánské bizáry"
+   ],
+   "values": [
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800"
+   ],
+   "questions": [
+      [
+         {
+            "question": "Kdo byl prvním papežem v historii podle katolické tradice? (Petr, Linus, Klement I.)",
+            "answer": "Petr",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/vatican/en/holy-father.html"
+         },
+         {
+            "question": "Který papež byl prvním, kdo abdikoval dobrovolně od 13. století? (Benedikt XVI., Jan Pavel II., František)",
+            "answer": "Benedikt XVI. - Benedikt XVI. (občanským jménem zvuk Joseph Ratzinger, 16. dubna 1927 Marktl – 31. prosince 2022 Vatikán[3]) byl německý katolický duchovní a teolog, který byl v letech 2005–2013 v pořadí 265. papežem, suverénem státu Vatikán. Od rezignace na tento úřad v roce 2013, první takové za posledních více než 700 let a druhé v dějinách církve, používal do svého úmrtí na sklonku roku 2022 titul emeritní papež.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/benedict-xvi/en.html"
+         },
+         {
+            "question": "Kolik let trvalo pontifikát papeže Pia IX., což je nejdelší v historii (mimo sv. Petra)? (20, 31, 39)",
+            "answer": "31",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/pius-ix/en.html"
+         },
+         {
+            "question": "Který papež jako první použil označení 'Služebník Služebníků Božích' ve svém titulu? (Jan I., Řehoř I., Bonifác III.)",
+            "answer": "Řehoř I.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://en.wikipedia.org/wiki/Pope_Gregory_I"
+         },
+         {
+            "question": "Který papež svolal První vatikánský koncil v roce 1869? (Řehoř XVI., Pius IX., Lev XIII.)",
+            "answer": "Pius IX.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/pius-ix/en.html"
+         },
+         {
+            "question": "Kdo byl posledním neitalským papežem před Janem Pavlem II.? (Hadrián VI., Alexandr VI., Klement VII.)",
+            "answer": "Hadrián VI. - Adriaan Florenszoon Boeyens (2. března 1459 Utrecht – 14. září 1523 Řím) byl nizozemský duchovní a teolog, který pod jménem Hadrián VI. zastával od roku 1522 až do své smrti úřad papeže. Byl jediným papežem z Nizozemska a posledním papežem neitalského původu až do roku 1978, kdy (455 let po jeho smrti) na papežský trůn usedl Polák sv. Jan Pavel II.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Hadri%C3%A1n_VI."
+         },
+         {
+            "question": "Který papež vydal bulu 'Unam Sanctam' o nadřazenosti papežské moci? (Bonifác VIII., Inocenc III., Řehoř VII.)",
+            "answer": "Bonifác VIII. - Unam sanctam (česky V jednu svatou) je papežská bula vydaná 18. listopadu 1302 papežem Bonifácem VIII. Po Dictatus papae Řehoře VII. to je druhý nejvýznamnější papežský dokument definující církev jako nezávislou univerzální křesťanskou instituci.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Unam_sanctam"
+         },
+         {
+            "question": "Kolik papežů bylo oficiálně uznáno od apoštola Petra do roku 2025? (266, 278, 290)",
+            "answer": "266",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Seznam_pape%C5%BE%C5%AF"
+         }
+      ],
+      [
+         {
+            "question": "Co je konkláve? (Mše za zesnulého papeže, Volba nového papeže, Setkání kardinálů o církevních reformách)",
+            "answer": "Volba nového papeže - Konkláve (z lat. cum clave – [uzamčen] na klíč) je uzavřené shromáždění kardinálů volící papeže, popřípadě místo konání tohoto shromáždění.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Konkl%C3%A1ve"
+         },
+         {
+            "question": "Jaký signál oznamuje úspěšné zvolení papeže? (Černý kouř, Bílý kouř, Zvony Vatikánu)",
+            "answer": "Bílý kouř - Jediným náznakem vývoje situace uvnitř Sixtinské kaple je dým z pálených hlasovacích lístků, který je davem na náměstí sv. Petra bedlivě sledován. V kapli jsou před volbou umístěna zvláštní kamínka a komínová roura je vyvedena nad střechu. Při neúspěšné volbě se k páleným lístkům přidávala smůla, čímž vznikal černý dým. Pokud byl nový papež zvolen, k posledním lístkům se přidávala mokrá sláma a dým měl bílou barvu. Po zkušenostech z roku 2005, kdy se nepodařilo vyvolat správnou barvu kouře, jímž se signalizuje výsledek hlasování, a kouř měl neurčitou šedou barvu, byla v roce 2013 pro každou barvu kouře určena jiná kamna a barva kouře byla, podle agentury AFP, řízena chemickými přísadami. Pro vyvolání černého kouře se používá směs chloristanu draselného, antracenu a síry, pro vyvolání bílého kouře směs chlorečnanu draselného, laktózy a kalafuny.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Konkl%C3%A1ve"
+         },
+         {
+            "question": "Jaký je minimální počet hlasů potřebný pro zvolení papeže? (Všechny, Polovina, Dvě třetiny)",
+            "answer": "Dvě třetiny - Jan Pavel II. v roce 1996 rozhodl, že pokud jsou tři série skrutinií (33–34 hlasování) bezvýsledné, pak postačí pro zvolení prostá většina hlasů. K uplatnění tohoto pravidla nikdy nedošlo, v červnu 2007 je nástupce Jana Pavla II. Benedikt XVI. zrušil – podle nového pravidla se v dalších hlasováních automaticky hlasuje o 2 nejúspěšnějších kardinálech posledního skrutinia třetí série a je třeba získat 2/3 hlasů.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Konkl%C3%A1ve"
+         },
+         {
+            "question": "Kde se tradičně koná konkláve? (Svatopetrský chrám, Sixtinská kaple, Lateránský palác)",
+            "answer": "Sixtinská kaple - Sixtinská kaple je kaple Apoštolského paláce ve Vatikánu, , zasvěcená Nanebevzetí Panny Marie. Stojí severně od Baziliky svatého Petra, s níž je spojena Královským schodištěm (Scala regia) a Královským sálem (Sala regia), pro turisty je přístupná pouze přes galerii Vatikánských muzeí. Její původní hlavní funkcí je shromáždění sboru kardinálů, kteří se zde scházejí k zvláštním jednáním, a také konají volbu papeže, konkláve. Je známá hlavně svou vnitřní výzdobou od největších renesančních umělců, včetně Michelangela, který vytvořil fresky na stropě a výjev Posledního soudu.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Sixtinsk%C3%A1_kaple"
+         },
+         {
+            "question": "Kolik kardinálů může maximálně hlasovat v konkláve? (120, 140, 160)",
+            "answer": "120 - Aktuální pravidla konkláve shrnul a upravil roku 1996 Jan Pavel II. apoštolskou konstitucí Universi Dominici gregis. Zúčastnit se konkláve je povinností všech kardinálů, kteří v den smrti nebo odstoupení papeže nepřekročili věk osmdesáti let (hranici stanovil papež Pavel VI. v roce 1970), maximální počet volitelů je však 120. Pokud by jich bylo více, bude právo volitelů omezeno na základě pravidel kardinálské funkce, stupně a seniority. Jinými slovy, ti nejmladší od jmenování ve stupni kardinála - jáhna budou zbaveni práva volit, poněvadž maximální počet volitelů je bez výjimky striktně omezen na 120. Sejít se musí 15–20 dnů po papežově smrti či odstoupení. Papežem může být zvolen každý muž, který se může stát katolickým biskupem. Podle Kodexu kanonického práva z r. 1983 se biskupem může stát pouze kněz nejméně pětatřicetiletý, od jehož kněžského svěcení uplynulo aspoň pět let. Kromě toho by měl vynikat pevnou vírou, dobrými mravy, zbožností, horlivostí o duše, moudrostí, obezřetností a lidskými ctnostmi, a aby měl ostatní vlohy, které ho činí vhodným k zastávání úřadu, o který se jedná; dále by měl mít dobrou pověst a být doktorem nebo alespoň licenciátem biblických věd, teologie či kanonického práva, promovaným na vysoké škole uznané Apoštolským stolcem, anebo být opravdu zběhlý v těchto oborech.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Konkl%C3%A1ve"
+         },
+         {
+            "question": "Jaké latinské heslo ohlašuje zvolení nového papeže? (Habemus Papam, Annuntio Vobis, Electus Est)",
+            "answer": "Habemus Papam „Annuntio vobis gaudium magnum. Habemus Papam!“ (Oznamuji vám radostnou zprávu. Máme papeže!).",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Konkl%C3%A1ve"
+         },
+         {
+            "question": "Co se děje s hlasovacími lístky po každém kole? (Ukládají se, Spalují se, Předávají se kardinálům)",
+            "answer": "Spalují se",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Konkl%C3%A1ve"
+         },
+         {
+            "question": "Kdo vede konkláve, pokud není přítomen kardinál-děkan? (Nejstarší kardinál, Kamerlengo, Sekretář státu)",
+            "answer": "Camerlengo Svaté římské církve - Camerlengo neboli kardinál komoří je jedním z nejvyšších hodnostářů papežské kurie, je představeným Apoštolské Komory. V době papežské sedisvakance se camerlengo stává formální hlavou státu Vatikán. Současným camerlengem je Kevin Farrell. Pravomoci: Po smrti papeže camerlengo tradičním rituálem za pomoci stříbrného kladívka ověřuje papežovo úmrtí. Poté musí o jeho úmrtí zpravit kardinála státního sekretáře a kardinála vikáře. Vystavuje oficiální papežův úmrtní list a odebere mu rybářský prsten, který je pak na zasedání kolegia kardinálů rozlámán (teoreticky na tolik dílů, kolik je přítomno kardinálů). Bezprostředně po papežově úmrtí musí nechat zapečetit papežovu pracovnu i jeho soukromé pokoje. Je také zodpovědný za organizaci papežova pohřbu a za přípravu a průběh nového konkláve. V době sedisvakance přebírá vedení církve kolegium kardinálů, jehož je reprezentantem, ale má pouze moc podle zvláštního zákona a vystupuje jen jako Primus inter pares (první mezi rovnými). V době sedisvakance je také hlavou státu. Faktická moc, byť omezena zvláštním zákonem, přísluší kardinálskému kolegiu jako celku. Liturgické vedení všech bohoslužeb je však svěřeno Děkanu kardinálského kolegia a rovněž, pokud není starším 80 let, vedení konkláve. Ostatní členové papežské kurie, s určitými výjimkami, okamžikem papežova úmrtí (popřípadě rezignace) pozbývají své funkce.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Camerlengo_Svat%C3%A9_%C5%99%C3%ADmsk%C3%A9_c%C3%ADrkve"
+         }
+      ],
+      [
+         {
+            "question": "Jaké je rodné jméno papeže Františka? (Jorge Bergoglio, Juan Bergoglio, José Bergoglio)",
+            "answer": "Jorge Bergoglio",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/francesco/en.html"
+         },
+         {
+            "question": "Z jaké země papež František pochází? (Argentina, Chile, Uruguay)",
+            "answer": "Argentina",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/francesco/en.html"
+         },
+         {
+            "question": "Jaký řád zastupoval František před svým zvolením? (Františkáni, Jezuité, Dominikáni)",
+            "answer": "Jezuité",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/francesco/en.html"
+         },
+         {
+            "question": "Který svátek František ustanovil na počest chudých? (Světový den chudých, Den solidarity, Den milosrdenství)",
+            "answer": "Světový den chudých - Světový den chudých je římskokatolický svátek, který se slaví od roku 2017 vždy o 33. neděli v liturgického mezidobí. Zavedl jej papež František ve svém apoštolském listě Misericordia et Misera vydaném 20. listopadu 2016 u příležitosti ukončení mimořádného Jubilea milosrdenství.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Sv%C4%9Btov%C3%BD_den_chud%C3%BDch"
+         },
+         {
+            "question": "V jakém roce byl František zvolen papežem? (2009, 2011, 2013)",
+            "answer": "2013",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/francesco/en.html"
+         },
+         {
+            "question": "Jaké povolání měl František před vstupem do kněžství? (Učitel, Chemik, Lékař)",
+            "answer": "Chemik",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/francesco/en.html"
+         },
+         {
+            "question": "Kterou encykliku vydal František v roce 2015 o životním prostředí? (Laudato Si’, Amoris Laetitia, Evangelii Gaudium)",
+            "answer": "Laudato Si’",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html"
+         },
+         {
+            "question": "Jaké město byl František arcibiskupem před zvolením papežem? (Santiago, Buenos Aires, Lima)",
+            "answer": "Buenos Aires - The 76-year-old Jesuit Archbishop of Buenos Aires",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/francesco/en.html"
+         }
+      ],
+      [
+         {
+            "question": "Který papež byl obviněn z prodeje církevních úřadů během 10. století? (Jan XII., Benedikt IX., Sergius III.)",
+            "answer": "Benedikt IX. - https://cs.wikipedia.org/wiki/Benedikt_IX.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Benedikt_IX."
+         },
+         {
+            "question": "Které období církevních dějin je označováno jako 'pornokratie'? (9.–10. stol., 12.–13. stol., 15.–16. stol.)",
+            "answer": "9.–10. stol. - https://cs.wikipedia.org/wiki/Pornokracie",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://en.wikipedia.org/wiki/Saeculum_obscurum, https://cs.wikipedia.org/wiki/Pornokracie"
+         },
+         {
+            "question": "Které město bylo sídlem papežů během tzv. Avignonského zajetí? (Florencie, Avignon, Milán)",
+            "answer": "Avignon - Avignonské papežství (francouzsky Papauté d'Avignon, italsky Papato di Avignone), známé jako takzvané avignonské zajetí (také tzv. „babylonské zajetí církve“), je období let 1309–1378, kdy papeži sídlili místo Říma v Avignonu ve Francii (město bylo odkoupeno jako samostatná enkláva až za papeže Klementa VI.). Poté až do roku 1430 byl Avignon sídlem vzdoropapežů. Ve 14. století se papežský stát dostal pod silný vliv Francie a došlo k velkému úpadku katolické církve. Sídlo v Avignonu si vybudoval, prý kvůli lepším podmínkám pro chatrné zdraví, Klement V., který byl zcela závislý na francouzském panovníkovi. Také jeho následníci zůstávali zcela ve vleku francouzské politiky a papežský dvůr se luxusním životním stylem nijak nelišil od světských dvorů panovnických.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Avignonsk%C3%A9_pape%C5%BEstv%C3%AD"
+         },
+         {
+            "question": "Který papež byl obviňován z podpory korupce a nepotismu (obsazuje na pozide svoje příbuzné)? (Alexandr VI., Julius II., Sixtus IV.)",
+            "answer": "Alexandr VI. - https://cs.wikipedia.org/wiki/Alexandr_VI.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Alexandr_VI."
+         },
+         {
+            "question": "Který papež rozpoutal Západní schizma (vládne více papežů) v roce 1378? (Klement VII., Bonifác IX., Urban VI.)",
+            "answer": "Urban VI.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Urban_VI."
+         },
+         {
+            "question": "Kdo byl posledním protipapežem v historii? (Felix V., Jan XXIII., Klement VIII.)",
+            "answer": "Felix V. - Protipápež alebo vzdoropápež je osoba, ktorá sa verejne dožaduje uznania svojho nároku na úrad pápeža, ale nie je uznaná vedením katolíckej cirkvi. Historickí protipápeži boli charakterizovaní podporou niektorej z častí cirkvi napr. skupiny biskupov, ale chýbalo im legitímne zvolenie do pápežského úradu.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://sk.wikipedia.org/wiki/Zoznam_protip%C3%A1pe%C5%BEov"
+         },
+         {
+            "question": "Který papež nařídil proces s mrtvým tělem svého předchůdce na  (mrtvých)? (Štěpán VI., Formosus, Jan IX.)",
+            "answer": "Štěpán VI. - Synoda mrtvých (897), latinsky Synodus horrenda, je označení pro synodu uspořádanou papežem Štěpánem VI., na níž byla přivlečena devět měsíců stará mrtvola Štěpánova předchůdce papeže Formosa. Jedná se o typický projev úpadku papežství v jeho temném období (891–1049).",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Synoda_mrtv%C3%BDch"
+         },
+         {
+            "question": "Který papež byl uvězněn francouzským králem Filipem IV. v roce 1303? (Bonifác VIII., Klement V., Jan XXII.)",
+            "answer": "Bonifác VIII. - Bonifác VIII. (1235, Anagni – 11. října 1303, Řím), vlastním jménem Benedetto Caëtani byl papež od 24. prosince 1294 až do své smrti 11. října 1303. Byl posledním mocensky silným papežem vrcholného středověku, jehož autorita byla nezávislá na světských panovnících. V jeho době se ale zároveň silně vyostřil právě konflikt mezi mocí církevní a mocí světskou.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Bonif%C3%A1c_VIII."
+         }
+      ],
+      [
+         {
+            "question": "Kolik fotbalových týmu je ve vatikánu? (žádný, 3, 9)",
+            "answer": "K roku 2014 bylo ve Vatikánu celkem 9 týmů: Musei Vaticani (původně S.S. Hermes) - tým složený ze zaměstnanců Vatikánských muzeí (od 1966); Gsp - Guardia Svizzera Pontificia - tým Švýcarské gardy (od 1934); Gendarmeria - tým vatikánských četníků; Santos - smíšený tým bez vyhraněné vazby na konkrétní organizaci; DirTel - tým zaměstnanců vatikánské pošty; Archivio - tým zaměstnanců Vatikánského tajného archivu; Dirseco; Fortitudo 2007 - tým zaměstnanců guvernorátu; OPBG - tým zaměstnanců dětské nemocnice Bambino Gesù[24]",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.vatican.va/content/vatican/en/vatican-city/gardens.html"
+         },
+         {
+            "question": "Jaký je název vatikánské poštovní služby? (Poste Vaticana, Sancta Posta, Apostolská pošta)",
+            "answer": "Poste Vaticana",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://en.wikipedia.org/wiki/Poste_Vaticane"
+         },
+         {
+            "question": "Má Vatikán vlastní internetovou doménu?",
+            "answer": "Ano, .va",
+            "brick": false,
+            "available": true,
+            "picture": null
+         },
+         {
+            "question": "Jaký je název vatikánské lékárny, jedné z nejstarších na světě? (Sancta Cura, Apostolská lékárna, Farmacia Vaticana)",
+            "answer": "Farmacia Vaticana - Vatikánská lékárna (italsky Farmacia Vaticana) je jedinou lékárnou Městského státu Vatikán. Jedná se o jednu z nejlépe zásobených a nejvíce navštěvovaných lékáren světa. Denně zde nakupuje až 2000 zákazníků, z nichž až polovina přichází z italského území.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Vatik%C3%A1nsk%C3%A1_l%C3%A9k%C3%A1rna"
+         },
+         {
+            "question": "Jak se jmenuje dříve tajný archiv Vatikánu? (Apostolský archiv, Svatý archiv, Zpravodajský archiv)",
+            "answer": "Vatikánský apoštolský archiv - Ústřední Vatikánský archiv byl při svém založení na počátku 17. století označen jako Nový archiv (latinsky Archivum Novum), aby se odlišil od starších archivů římské kurie, které měl sjednotit a zastřešit.[2] Původní název však brzy nahradil termín Apoštolský archiv (latinsky Archivum Apostolicum). V roce 1646 byl poprvé použit název Vatikánský tajný archiv (latinsky Archivum Secretum Vaticanum; italsky Archivio Segreto Vaticano), který se poté používal až do roku 2019. 22. října 2019 papež František obnovil původní název Vatikánský apoštolský archiv (latinsky Archivum Apostolicum Vaticanum).[1] Důvodem bylo nejen plánované širší zpřístupnění písemností včetně dokumentů z období druhé světové války, ale i snaha objasnit mylnou interpretaci názvu. Původní význam latinského termínu secretum totiž není „tajný“, nýbrž „soukromý”. Název Archivum Secretum Vaticanum tedy označoval soukromý archiv papeže, nikoliv archiv utajovaných dokumentů.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Vatik%C3%A1nsk%C3%BD_apo%C5%A1tolsk%C3%BD_archiv"
+         },
+         {
+            "question": "Jakou značku auta poslal papež František do dražby a peníze poslal na charitu? (Porshe, Mercedes, Ferary, Lamborghini)",
+            "answer": "Původní dárek automobilky Lamborghini současnému papeži Františkovi, unikátně upravený model Huracán, se stal hlavní cenou celosvětové loterie, jejíž výtěžek půjde na dobročinné účely. A vítězem hlavní ceny se stal Čech!",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://www.garaz.cz/clanek/papezovo-lamborghini-huracan-miri-ke-stastlivci-do-cech-21001302"
+         },
+         {
+            "question": "Který předmět nosí papež jako symbol své moci? (Paliový kříž, Rybářský prsten, Zlatý klíč)",
+            "answer": "Rybářský prsten - Rybářský prsten (latinsky Anulus piscatoris) je sekretní prstenová pečeť konkrétním papežem k pečetění méně významných dokumentů a tajné korespondence voskem červené barvy. Její používání je známo od 12. století do 19. století. Od 15. století se rybářský prsten používal i k pečetěni papežských breve.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Ryb%C3%A1%C5%99sk%C3%BD_prsten"
+         },
+         {
+            "question": "Co je tzv. 'Sedia Gestatoria'? (Přenosný trůn, Papežský kočár, Modlitební lavice)",
+            "answer": "Přenosný trůn - Sedia gestatoria je papežský přenosný trůn. Sedia sestávala z trůnu připevněného k plošině (suppedaneum) se dvěma tyčemi, které drželo 12 nosičů (sediari pontifici). Po stranách sedie byla nesena flabella, tj. vějíře z bílého pštrosího peří. Jako poslední užíval sedia gestatoria papež Jan Pavel I. v roce 1978. V současnosti plní funkci sedie papamobil.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Sedia_gestatoria"
+         }
+      ]
+   ]
+}

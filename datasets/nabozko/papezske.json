@@ -27,7 +27,7 @@
             "source": "https://www.vatican.va/content/vatican/en/holy-father.html"
          },
          {
-            "question": "Který papež jako první použil označení 'papež' ve svém titulu? (Jan I., Řehoř I., Bonifác III.)",
+            "question": "Který papež jako první použil označení 'Služebník Služebníků Božích' ve svém titulu? (Jan I., Řehoř I., Bonifác III.)",
             "answer": "Řehoř I.",
             "brick": false,
             "available": true,
@@ -35,7 +35,7 @@
             "source": "https://en.wikipedia.org/wiki/Pope_Gregory_I"
          },
          {
-            "question": "Kolik let trvalo pontifikát papeže Pia IX., což je nejdelší v historii? (20, 31, 39)",
+            "question": "Kolik let trvalo pontifikát papeže Pia IX., což je nejdelší v historii (mimo sv. Petra)? (20, 31, 39)",
             "answer": "31",
             "brick": false,
             "available": true,
@@ -52,23 +52,23 @@
          },
          {
             "question": "Kdo byl posledním neitalským papežem před Janem Pavlem II.? (Hadrián VI., Alexandr VI., Klement VII.)",
-            "answer": "Hadrián VI.",
+            "answer": "Hadrián VI. - Adriaan Florenszoon Boeyens (2. března 1459 Utrecht – 14. září 1523 Řím) byl nizozemský duchovní a teolog, který pod jménem Hadrián VI. zastával od roku 1522 až do své smrti úřad papeže. Byl jediným papežem z Nizozemska a posledním papežem neitalského původu až do roku 1978, kdy (455 let po jeho smrti) na papežský trůn usedl Polák sv. Jan Pavel II.",
             "brick": false,
             "available": true,
             "picture": null,
-            "source": "https://en.wikipedia.org/wiki/Pope_Adrian_VI"
+            "source": "https://cs.wikipedia.org/wiki/Hadri%C3%A1n_VI."
          },
          {
             "question": "Který papež vydal bulu 'Unam Sanctam' o nadřazenosti papežské moci? (Bonifác VIII., Inocenc III., Řehoř VII.)",
-            "answer": "Bonifác VIII.",
+            "answer": "Bonifác VIII. - Unam sanctam (česky V jednu svatou) je papežská bula vydaná 18. listopadu 1302 papežem Bonifácem VIII. Po Dictatus papae Řehoře VII. to je druhý nejvýznamnější papežský dokument definující církev jako nezávislou univerzální křesťanskou instituci.",
             "brick": false,
             "available": true,
             "picture": null,
-            "source": "https://www.newadvent.org/cathen/02662c.htm"
+            "source": "https://cs.wikipedia.org/wiki/Unam_sanctam"
          },
          {
             "question": "Který papež byl prvním, kdo abdikoval dobrovolně od 13. století? (Benedikt XVI., Jan Pavel II., František)",
-            "answer": "Benedikt XVI.",
+            "answer": "Benedikt XVI. - Benedikt XVI. (občanským jménem zvuk Joseph Ratzinger, 16. dubna 1927 Marktl – 31. prosince 2022 Vatikán[3]) byl německý katolický duchovní a teolog, který byl v letech 2005–2013 v pořadí 265. papežem, suverénem státu Vatikán. Od rezignace na tento úřad v roce 2013, první takové za posledních více než 700 let a druhé v dějinách církve, používal do svého úmrtí na sklonku roku 2022 titul emeritní papež.",
             "brick": false,
             "available": true,
             "picture": null,
@@ -80,7 +80,7 @@
             "brick": false,
             "available": true,
             "picture": null,
-            "source": "https://www.vatican.va/content/vatican/en/hSEDoly-father.html"
+            "source": "https://cs.wikipedia.org/wiki/Seznam_pape%C5%BE%C5%AF"
          }
       ],
       [

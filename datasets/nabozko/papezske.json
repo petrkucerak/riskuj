@@ -7,14 +7,14 @@
       "Vatikánské bizáry"
    ],
    "values": [
-      "1 000",
-      "2 000",
-      "3 000",
-      "4 000",
-      "5 000",
-      "6 000",
-      "7 000",
-      "8 000"
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800"
    ],
    "questions": [
       [
@@ -27,12 +27,12 @@
             "source": "https://www.vatican.va/content/vatican/en/holy-father.html"
          },
          {
-            "question": "Který papež jako první použil označení 'Služebník Služebníků Božích' ve svém titulu? (Jan I., Řehoř I., Bonifác III.)",
-            "answer": "Řehoř I.",
+            "question": "Který papež byl prvním, kdo abdikoval dobrovolně od 13. století? (Benedikt XVI., Jan Pavel II., František)",
+            "answer": "Benedikt XVI. - Benedikt XVI. (občanským jménem zvuk Joseph Ratzinger, 16. dubna 1927 Marktl – 31. prosince 2022 Vatikán[3]) byl německý katolický duchovní a teolog, který byl v letech 2005–2013 v pořadí 265. papežem, suverénem státu Vatikán. Od rezignace na tento úřad v roce 2013, první takové za posledních více než 700 let a druhé v dějinách církve, používal do svého úmrtí na sklonku roku 2022 titul emeritní papež.",
             "brick": false,
             "available": true,
             "picture": null,
-            "source": "https://en.wikipedia.org/wiki/Pope_Gregory_I"
+            "source": "https://www.vatican.va/content/benedict-xvi/en.html"
          },
          {
             "question": "Kolik let trvalo pontifikát papeže Pia IX., což je nejdelší v historii (mimo sv. Petra)? (20, 31, 39)",
@@ -41,6 +41,14 @@
             "available": true,
             "picture": null,
             "source": "https://www.vatican.va/content/pius-ix/en.html"
+         },
+         {
+            "question": "Který papež jako první použil označení 'Služebník Služebníků Božích' ve svém titulu? (Jan I., Řehoř I., Bonifác III.)",
+            "answer": "Řehoř I.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://en.wikipedia.org/wiki/Pope_Gregory_I"
          },
          {
             "question": "Který papež svolal První vatikánský koncil v roce 1869? (Řehoř XVI., Pius IX., Lev XIII.)",
@@ -67,14 +75,6 @@
             "source": "https://cs.wikipedia.org/wiki/Unam_sanctam"
          },
          {
-            "question": "Který papež byl prvním, kdo abdikoval dobrovolně od 13. století? (Benedikt XVI., Jan Pavel II., František)",
-            "answer": "Benedikt XVI. - Benedikt XVI. (občanským jménem zvuk Joseph Ratzinger, 16. dubna 1927 Marktl – 31. prosince 2022 Vatikán[3]) byl německý katolický duchovní a teolog, který byl v letech 2005–2013 v pořadí 265. papežem, suverénem státu Vatikán. Od rezignace na tento úřad v roce 2013, první takové za posledních více než 700 let a druhé v dějinách církve, používal do svého úmrtí na sklonku roku 2022 titul emeritní papež.",
-            "brick": false,
-            "available": true,
-            "picture": null,
-            "source": "https://www.vatican.va/content/benedict-xvi/en.html"
-         },
-         {
             "question": "Kolik papežů bylo oficiálně uznáno od apoštola Petra do roku 2025? (266, 278, 290)",
             "answer": "266",
             "brick": false,
@@ -86,43 +86,51 @@
       [
          {
             "question": "Co je konkláve? (Mše za zesnulého papeže, Volba nového papeže, Setkání kardinálů o církevních reformách)",
-            "answer": "Volba nového papeže",
+            "answer": "Volba nového papeže - Konkláve (z lat. cum clave – [uzamčen] na klíč) je uzavřené shromáždění kardinálů volící papeže, popřípadě místo konání tohoto shromáždění.",
             "brick": false,
             "available": true,
             "picture": null,
-            "source": "https://www.vatican.va/news_services/press/documentazione/documents/conclave/conclave_en.html"
+            "source": "https://cs.wikipedia.org/wiki/Konkl%C3%A1ve"
+         },
+         {
+            "question": "Jaký signál oznamuje úspěšné zvolení papeže? (Černý kouř, Bílý kouř, Zvony Vatikánu)",
+            "answer": "Bílý kouř - Jediným náznakem vývoje situace uvnitř Sixtinské kaple je dým z pálených hlasovacích lístků, který je davem na náměstí sv. Petra bedlivě sledován. V kapli jsou před volbou umístěna zvláštní kamínka a komínová roura je vyvedena nad střechu. Při neúspěšné volbě se k páleným lístkům přidávala smůla, čímž vznikal černý dým. Pokud byl nový papež zvolen, k posledním lístkům se přidávala mokrá sláma a dým měl bílou barvu. Po zkušenostech z roku 2005, kdy se nepodařilo vyvolat správnou barvu kouře, jímž se signalizuje výsledek hlasování, a kouř měl neurčitou šedou barvu, byla v roce 2013 pro každou barvu kouře určena jiná kamna a barva kouře byla, podle agentury AFP, řízena chemickými přísadami. Pro vyvolání černého kouře se používá směs chloristanu draselného, antracenu a síry, pro vyvolání bílého kouře směs chlorečnanu draselného, laktózy a kalafuny.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Konkl%C3%A1ve"
+         },
+         {
+            "question": "Jaký je minimální počet hlasů potřebný pro zvolení papeže? (Všechny, Polovina, Dvě třetiny)",
+            "answer": "Dvě třetiny - Jan Pavel II. v roce 1996 rozhodl, že pokud jsou tři série skrutinií (33–34 hlasování) bezvýsledné, pak postačí pro zvolení prostá většina hlasů. K uplatnění tohoto pravidla nikdy nedošlo, v červnu 2007 je nástupce Jana Pavla II. Benedikt XVI. zrušil – podle nového pravidla se v dalších hlasováních automaticky hlasuje o 2 nejúspěšnějších kardinálech posledního skrutinia třetí série a je třeba získat 2/3 hlasů.",
+            "brick": false,
+            "available": true,
+            "picture": null,
+            "source": "https://cs.wikipedia.org/wiki/Konkl%C3%A1ve"
          },
          {
             "question": "Kde se tradičně koná konkláve? (Svatopetrský chrám, Sixtinská kaple, Lateránský palác)",
-            "answer": "Sixtinská kaple",
+            "answer": "Sixtinská kaple - Sixtinská kaple je kaple Apoštolského paláce ve Vatikánu, , zasvěcená Nanebevzetí Panny Marie. Stojí severně od Baziliky svatého Petra, s níž je spojena Královským schodištěm (Scala regia) a Královským sálem (Sala regia), pro turisty je přístupná pouze přes galerii Vatikánských muzeí. Její původní hlavní funkcí je shromáždění sboru kardinálů, kteří se zde scházejí k zvláštním jednáním, a také konají volbu papeže, konkláve. Je známá hlavně svou vnitřní výzdobou od největších renesančních umělců, včetně Michelangela, který vytvořil fresky na stropě a výjev Posledního soudu.",
             "brick": false,
             "available": true,
             "picture": null,
-            "source": "https://www.vatican.va/news_services/press/documentazione/documents/conclave/conclave_en.html"
+            "source": "https://cs.wikipedia.org/wiki/Sixtinsk%C3%A1_kaple"
          },
          {
             "question": "Kolik kardinálů může maximálně hlasovat v konkláve? (120, 140, 160)",
-            "answer": "120",
+            "answer": "120 - Aktuální pravidla konkláve shrnul a upravil roku 1996 Jan Pavel II. apoštolskou konstitucí Universi Dominici gregis. Zúčastnit se konkláve je povinností všech kardinálů, kteří v den smrti nebo odstoupení papeže nepřekročili věk osmdesáti let (hranici stanovil papež Pavel VI. v roce 1970), maximální počet volitelů je však 120. Pokud by jich bylo více, bude právo volitelů omezeno na základě pravidel kardinálské funkce, stupně a seniority. Jinými slovy, ti nejmladší od jmenování ve stupni kardinála - jáhna budou zbaveni práva volit, poněvadž maximální počet volitelů je bez výjimky striktně omezen na 120. Sejít se musí 15–20 dnů po papežově smrti či odstoupení. Papežem může být zvolen každý muž, který se může stát katolickým biskupem. Podle Kodexu kanonického práva z r. 1983 se biskupem může stát pouze kněz nejméně pětatřicetiletý, od jehož kněžského svěcení uplynulo aspoň pět let. Kromě toho by měl vynikat pevnou vírou, dobrými mravy, zbožností, horlivostí o duše, moudrostí, obezřetností a lidskými ctnostmi, a aby měl ostatní vlohy, které ho činí vhodným k zastávání úřadu, o který se jedná; dále by měl mít dobrou pověst a být doktorem nebo alespoň licenciátem biblických věd, teologie či kanonického práva, promovaným na vysoké škole uznané Apoštolským stolcem, anebo být opravdu zběhlý v těchto oborech.",
             "brick": false,
             "available": true,
             "picture": null,
-            "source": "https://www.vatican.va/content/roman_curia/congregations/ccatholic_education/documents/rc_con_ccatheduc_doc_19970416_normae-universae_en.html"
+            "source": "https://cs.wikipedia.org/wiki/Konkl%C3%A1ve"
          },
          {
             "question": "Jaké latinské heslo ohlašuje zvolení nového papeže? (Habemus Papam, Annuntio Vobis, Electus Est)",
-            "answer": "Habemus Papam",
+            "answer": "Habemus Papam „Annuntio vobis gaudium magnum. Habemus Papam!“ (Oznamuji vám radostnou zprávu. Máme papeže!).",
             "brick": false,
             "available": true,
             "picture": null,
-            "source": "https://www.vatican.va/news_services/press/documentazione/documents/conclave/conclave_en.html"
-         },
-         {
-            "question": "Jaký je minimální počet hlasů potřebný pro zvolení papeže? (Třetina, Polovina, Dvě třetiny)",
-            "answer": "Dvě třetiny",
-            "brick": false,
-            "available": true,
-            "picture": null,
-            "source": "https://www.vatican.va/content/roman_curia/congregations/ccatholic_education/documents/rc_con_ccatheduc_doc_19970416_normae-universae_en.html"
+            "source": "https://cs.wikipedia.org/wiki/Konkl%C3%A1ve"
          },
          {
             "question": "Co se děje s hlasovacími lístky po každém kole? (Ukládají se, Spalují se, Předávají se kardinálům)",
@@ -130,23 +138,15 @@
             "brick": false,
             "available": true,
             "picture": null,
-            "source": "https://www.vatican.va/news_services/press/documentazione/documents/conclave/conclave_en.html"
-         },
-         {
-            "question": "Jaký signál oznamuje úspěšné zvolení papeže? (Černý kouř, Bílý kouř, Zvony Vatikánu)",
-            "answer": "Bílý kouř",
-            "brick": false,
-            "available": true,
-            "picture": null,
-            "source": "https://www.vatican.va/news_services/press/documentazione/documents/conclave/conclave_en.html"
+            "source": "https://cs.wikipedia.org/wiki/Konkl%C3%A1ve"
          },
          {
             "question": "Kdo vede konkláve, pokud není přítomen kardinál-děkan? (Nejstarší kardinál, Kamerlengo, Sekretář státu)",
-            "answer": "Kamerlengo",
+            "answer": "Camerlengo Svaté římské církve - Camerlengo neboli kardinál komoří je jedním z nejvyšších hodnostářů papežské kurie, je představeným Apoštolské Komory. V době papežské sedisvakance se camerlengo stává formální hlavou státu Vatikán. Současným camerlengem je Kevin Farrell. Pravomoci: Po smrti papeže camerlengo tradičním rituálem za pomoci stříbrného kladívka ověřuje papežovo úmrtí. Poté musí o jeho úmrtí zpravit kardinála státního sekretáře a kardinála vikáře. Vystavuje oficiální papežův úmrtní list a odebere mu rybářský prsten, který je pak na zasedání kolegia kardinálů rozlámán (teoreticky na tolik dílů, kolik je přítomno kardinálů). Bezprostředně po papežově úmrtí musí nechat zapečetit papežovu pracovnu i jeho soukromé pokoje. Je také zodpovědný za organizaci papežova pohřbu a za přípravu a průběh nového konkláve. V době sedisvakance přebírá vedení církve kolegium kardinálů, jehož je reprezentantem, ale má pouze moc podle zvláštního zákona a vystupuje jen jako Primus inter pares (první mezi rovnými). V době sedisvakance je také hlavou státu. Faktická moc, byť omezena zvláštním zákonem, přísluší kardinálskému kolegiu jako celku. Liturgické vedení všech bohoslužeb je však svěřeno Děkanu kardinálského kolegia a rovněž, pokud není starším 80 let, vedení konkláve. Ostatní členové papežské kurie, s určitými výjimkami, okamžikem papežova úmrtí (popřípadě rezignace) pozbývají své funkce.",
             "brick": false,
             "available": true,
             "picture": null,
-            "source": "https://www.vatican.va/news_services/press/documentazione/documents/conclave/conclave_en.html"
+            "source": "https://cs.wikipedia.org/wiki/Camerlengo_Svat%C3%A9_%C5%99%C3%ADmsk%C3%A9_c%C3%ADrkve"
          }
       ],
       [
